@@ -1,4 +1,5 @@
 #  Jairo Alonso :v
+# Ayudame batooooooo
 import numpy as np
 import os
 #import matplotlib.pyplot as plt
